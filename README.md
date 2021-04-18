@@ -1,2 +1,5 @@
 # Dart-For-Java-Developers
-This repository contains the material I used to study by following a Dart course from freeCodeCamp.org. I'm a Java developer so this might be a great resource for other Java developers wanting to learn Dart.
+![alt text](https://miro.medium.com/max/1200/0*4-TyKV9JUJg7jizV.jpg)
+This repository contains the material I used to learn Dart following a Dart course from freeCodeCamp.org. 
+
+This is from the perspective of a Java developer and I made this so that other Java developers could learn the basic differences between Java & Dart as fast as possible.
